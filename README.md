@@ -1,2 +1,2 @@
 # sample
-sample for learning git
+sample for learning github
